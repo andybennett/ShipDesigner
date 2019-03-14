@@ -1,5 +1,3 @@
-<img align="left" src="Ship6.png">
-
 * * *
 
 * [Dependencies](DEPENDENCIES.md)
