@@ -42,4 +42,4 @@
     * Flips the ship vertically.
 
 * * *
-[Back to menu](README.md)
+[Back to menu](../README.md)
