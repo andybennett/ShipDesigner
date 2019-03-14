@@ -3,7 +3,7 @@
 * [Dependencies](md/DEPENDENCIES.md)
 * [Controls](md/CONTROLS.md)
 * [The Future](md/FUTURE.md)
-* [Ships](md/SHIPS.md)
+* [Example Ships](md/SHIPS.md)
 
 * * *
 
