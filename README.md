@@ -1,6 +1,8 @@
+<img align="left" src="Ship6.png">
+
 * * *
 
-* [Dependencies](DEPENDENCIES.md) <img align="right" src="Ship6.png">
+* [Dependencies](DEPENDENCIES.md)
 * [Controls](CONTROLS.md)
 * [The Future](FUTURE.md)
 
