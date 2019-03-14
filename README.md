@@ -12,8 +12,6 @@
 * Youtube videos
     * Youtube video 1
     * Youtube video 2
-    
-* * *
 
 ### 10/03/2019
 
