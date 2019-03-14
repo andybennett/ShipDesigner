@@ -8,11 +8,10 @@
 
 ### 14/03/2019 <img align="right" src="images/10cc2cf3-da2f-4c81-b925-fec57ae0336e.png">
 
-* Posted to Java Gaming Forums.
-* Youtube videos
-    * Youtube video 1
-    * Youtube video 2
+* Created these pages.
+* Downloaded and tested software to help make a few youtube videos of the design / construction process.
+* Various coding tweaks
+* Started on a help menu
+* Pondering whether or not to split the add blocks randomly and add block at cursor location functionality to different key mappings.
 
-### 10/03/2019
-
-Continued work - almost there for an initial tech demo release.
+### ...
