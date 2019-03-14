@@ -11,3 +11,5 @@
 * **s** - Subtracts random blocks from ship / If mouse cursor is within the right half ship boundary it will subtract blocks at mouse cursor location.
 * **d** - Adds random lines to ship.
 * **f** - Flips the ship vertically.
+
+[Back to menu](README.md)
