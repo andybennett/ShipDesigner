@@ -6,3 +6,5 @@
 <img hspace="10" vspace="10" src="../images/9ffd4ebb-eefd-4beb-b52b-70cfeae0cd48.png"><img hspace="10" vspace="10" src="../images/ae81e6dd-4845-4194-b742-a6e59e781cf7.png">
 <img hspace="10" vspace="10" src="../images/b91a8ad1-eece-42f7-a11d-71ef13aefdd3.png"><img hspace="10" vspace="10" src="../images/de51d96d-f327-44db-bc86-50884c693489.png">
 <img hspace="10" vspace="10" src="../images/e41dfd68-5f00-4c78-b70b-139e9446fbb8.png"><img hspace="10" vspace="10" src="../images/ebbba53c-b040-4336-a88d-2555ea098884.png">
+
+[Back to menu](../README.md)
