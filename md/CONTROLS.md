@@ -1,7 +1,7 @@
 # Controls
 * * *
 
-### Mouse Controls
+### Mouse Controls <img align="right" src="../images/4d836667-42d9-4050-b4a8-ea3545013d31.png">
 * **Left Click** - Select Ships.
 * **Middle Click** - Pan view.
 * **Right Click** - Context menu.
@@ -23,7 +23,7 @@
     * **Load** - Load Ship(s) from file.
     
     
-### Keyboard Controls
+### Keyboard Controls <img align="right" src="../images/5aada360-6012-4e3d-95f0-cf0f8be70229.png">
 * **F1** 
     * Toggels viewing help.
 * **home** 
