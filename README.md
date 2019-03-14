@@ -1,3 +1,4 @@
-[a relative link](CONTROLS.md)
+# Menu
 
-[a relative link](FUTURE.md)
+* [Ship Designer Controls](CONTROLS.md)
+* [Future changes](FUTURE.md)
