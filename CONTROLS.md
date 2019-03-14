@@ -1,4 +1,5 @@
 # Controls
+* * *
 
 ### Mouse Controls
 * **Left Click** - Select Ships.
