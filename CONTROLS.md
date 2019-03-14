@@ -1,28 +1,28 @@
 # Controls
 
-## Mouse Controls
-* Left Click - Select Ships.
-* Middle Click - Pan view.
-* Right Click - Context menu.
+### Mouse Controls
+* **Left Click** - Select Ships.
+* **Middle Click** - Pan view.
+* **Right Click** - Context menu.
 
-## Context Menu
+### Context Menu
 * Ship selected
-    * Name
+    * **Name**
         * Manual
         * Random
-    * Save - Saves selected Ship to file.
-    * Delete - Deletes selected Ship.
-    * Clone - Clones selected Ship.
+    * **Save** - Saves selected Ship to file.
+    * **Delete** - Deletes selected Ship.
+    * **Clone** - Clones selected Ship.
         * Cloned copy will be on top of original.
-    * Merge - Merges selected Ship with other Ships to create a new Ship.
+    * **Merge** - Merges selected Ship with other Ships to create a new Ship.
         * Option will only appear when a valid merge is possible e.g. you have postioned the selected Ship over other Ship(s).
 * No Ship selected
-    * Create Ship - Creates a new ship centered at the mouse cursor location.
-    * Save all - Saves all ships to file.
-    * Load - Load Ship(s) from file.
+    * **Create Ship** - Creates a new ship centered at the mouse cursor location.
+    * **Save all** - Saves all ships to file.
+    * **Load** - Load Ship(s) from file.
     
     
-## Keyboard Controls
+### Keyboard Controls
 * **F1** 
     * Toggels viewing help.
 * **home** 
