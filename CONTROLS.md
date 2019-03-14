@@ -41,4 +41,5 @@
 * **f** 
     * Flips the ship vertically.
 
+* * *
 [Back to menu](README.md)
