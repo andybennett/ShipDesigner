@@ -2,7 +2,7 @@
 
 * [Dependencies](DEPENDENCIES.md)
 * [Controls](CONTROLS.md)
-* [Future changes](FUTURE.md)
+* [The Future](FUTURE.md)
 
 * * *
 
