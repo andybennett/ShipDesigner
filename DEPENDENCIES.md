@@ -1,17 +1,17 @@
 # Dependencies
 
-* ajb2DGameFramework
+* **ajb2DGameFramework**
     * https://github.com/andybennett/ajb2DGameFramework
     * http://andybennett.github.io/ajb2DGameFramework
-* ajbColours
+* **ajbColours**
     * https://github.com/andybennett/ajbColours
-* ajbTrig
+* **ajbTrig**
     * https://github.com/andybennett/ajbTrig
-* ajbImages
+* **ajbImages**
     * https://github.com/andybennett/ajbImages
-* ajbProceduralContentGeneration
+* **ajbProceduralContentGeneration**
     * https://github.com/andybennett/ajbProceduralContentGeneration
-* ajbGeometry
+* **ajbGeometry**
     * https://github.com/andybennett/ajbGeometry
-* ajbRandom
+* **ajbRandom**
     * https://github.com/andybennett/ajbRandom
