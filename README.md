@@ -1,10 +1,4 @@
-* * *
-
-* [Dependencies](DEPENDENCIES.md)
-* [Controls](CONTROLS.md)
-* [The Future](FUTURE.md)
-
-* * *
+{% include_relative md/MENU.md %}
 
 ### 14/03/2019 <img align="right" src="images/Ship9.png">
 
