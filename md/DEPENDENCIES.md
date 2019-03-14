@@ -1,7 +1,7 @@
 # Dependencies
 * * *
 
-* **ajb2DGameFramework**
+* **ajb2DGameFramework** <img align="right" src="../images/9b8a496a-2783-4f60-8ee5-70b6d217f313.png">
     * [https://github.com/andybennett/ajb2DGameFramework](https://github.com/andybennett/ajb2DGameFramework)
     * [http://andybennett.github.io/ajb2DGameFramework](http://andybennett.github.io/ajb2DGameFramework)
 * **ajbColours**
