@@ -1,5 +1,5 @@
 # Menu
 
 * [Dependencies](DEPENDENCIES.md)
-* [Ship Designer Controls](CONTROLS.md)
+* [Controls](CONTROLS.md)
 * [Future changes](FUTURE.md)
