@@ -9,7 +9,8 @@
 ### Survival
 
 * Design vessels / fleet then pit them against increasingly difficult encounters. 
-* Resources are gained after each encounter and can be spent to repair and upgrade vessels and purchase new modules. 
+* Resources are gained after each encounter and can be spent to repair and upgrade vessels and purchase new modules.
+    * Re-design ships in between battles, merge badly damaged ships with other ships. 
 * Goal is to survive as long as you can.
 
 AI will retreat / FTL out when outnumbered, but may come back in subsequent encounters - chance to jump in every game turn?
@@ -17,6 +18,13 @@ May provide an exciting named opponent that keeps coming back and causing grief.
 
 ### Opponent AI <img align="right" src="../images/b91a8ad1-eece-42f7-a11d-71ef13aefdd3.png">
 Create a competent AI opponent. Overall behavior e.g. aggressive, defensive, ... individual Vessel behaviors.
+
+### Long term
+* Procedural plants, asteroids, galaxies, universe.
+* 4X game with ships that evolve with you.
+    * Add additional hull.
+    * Merge with other ships.
+    * ...
 
 * * *
 [Back to menu](../README.md)
