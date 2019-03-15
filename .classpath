@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/ajb2DGameFramework"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/ajbColours"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/ajbGeometry"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/ajbImages"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/ajbProceduralContentGeneration"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/ajbRandom"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/ajbTrig"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
