@@ -524,7 +524,7 @@ public class ShipBuilderExample extends Base2DFramework implements Loop {
 	@Override
 	public void componentResized(ComponentEvent arg0) {
 
-		//starfield = new Starfield(0, 0, this.getWidth(), this.getHeight(), 100, 200);
+		starfield = new Starfield(0, 0, this.getWidth(), this.getHeight(), 100, 200);
 		moveToShip();
 
 	}
