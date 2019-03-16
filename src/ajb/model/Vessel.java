@@ -29,7 +29,7 @@ public class Vessel implements Serializable {
 	double shields = 0;
 	double armour = 0;
 	double hull = 0;
-	Color color = ColourUtils.gray.darker();
+	Color color = ColourUtils.gray;
 
 	public Vessel(Area area, Point2D.Double center) {
 
@@ -55,7 +55,17 @@ public class Vessel implements Serializable {
 			g2d.setColor(ColourUtils.makeTransparent(ColourUtils.background, 200));
 			g2d.fill(displayArea.getBounds2D());
 
-			g2d.setColor(color);
+			if (selected) {
+				
+				g2d.setColor(color.brighter());
+				
+				
+			} else {
+				
+				g2d.setColor(color);
+				
+			}
+			
 			g2d.fill(displayArea);
 
 		} catch (Exception ex) {

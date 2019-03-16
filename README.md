@@ -7,6 +7,10 @@
 
 * * *
 
+### 16/03/2019
+
+* First youtube video - [https://youtu.be/jte_wv4PHVw](https://youtu.be/jte_wv4PHVw)
+
 ### 14/03/2019 <img align="right" hspace="10" src="images/10cc2cf3-da2f-4c81-b925-fec57ae0336e.png">
 
 * Created these pages.
