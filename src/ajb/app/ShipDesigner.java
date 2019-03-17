@@ -41,13 +41,13 @@ import ajb.random.RandomInt;
 import ajb.ships.ShipUtils;
 
 @SuppressWarnings("serial")
-public class ShipBuilderExample extends Base2DFramework implements Loop {
+public class ShipDesigner extends Base2DFramework implements Loop {
 
 	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 
 		LookAndFeelUtils.setNimbusLookAndfeel();
-		ShipBuilderExample app = new ShipBuilderExample();
+		ShipDesigner app = new ShipDesigner();
 
 	}
 
@@ -62,7 +62,7 @@ public class ShipBuilderExample extends Base2DFramework implements Loop {
 	Point2D.Double clickPoint = null;
 	int scale = 1;
 
-	public ShipBuilderExample() {
+	public ShipDesigner() {
 
 		super();
 
