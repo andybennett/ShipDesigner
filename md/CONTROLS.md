@@ -2,7 +2,7 @@
 * * *
 
 ### Mouse Controls <img align="right" src="../images/4d836667-42d9-4050-b4a8-ea3545013d31.png">
-* **Left Click** - Select Ships.
+* **Left Click** - Select and move Ships.
 * **Middle Click** - Pan view.
 * **Right Click** - Context menu.
 
