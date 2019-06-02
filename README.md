@@ -11,12 +11,12 @@
 * Second youtube video - [https://youtu.be/uGyvM4OIOzc](https://youtu.be/uGyvM4OIOzc)
 * Third youtube video - [https://youtu.be/KdY28LixeoU](https://youtu.be/KdY28LixeoU)
 
-### 16/03/2019
+### 16/03/2019 <img align="right" src="images/10cc2cf3-da2f-4c81-b925-fec57ae0336e.png">
 
 * First youtube video - [https://youtu.be/jte_wv4PHVw](https://youtu.be/jte_wv4PHVw)
 * Posted to java gaming forums - [http://www.java-gaming.org/topics/random-procedural-space-ship-designer/38871/view.html](http://www.java-gaming.org/topics/random-procedural-space-ship-designer/38871/view.html)
 
-### 14/03/2019 <img align="right" hspace="10" src="images/10cc2cf3-da2f-4c81-b925-fec57ae0336e.png">
+### 14/03/2019
 
 * Created these pages.
 * Downloaded and tested software to help make a few youtube videos of the design / construction process.
