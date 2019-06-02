@@ -26,10 +26,7 @@ public class Vessel implements Serializable {
 	public Point2D.Double center = null;
 	public boolean selected = false;
 	double rotationInDegrees = 0;
-	double shields = 0;
-	double armour = 0;
-	double hull = 0;
-	Color color = ColourUtils.gray;
+	Color color = ColourUtils.gray.brighter();
 
 	public Vessel(Area area, Point2D.Double center) {
 
