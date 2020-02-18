@@ -14,7 +14,7 @@
 ### 16/03/2019 <img align="right" src="images/10cc2cf3-da2f-4c81-b925-fec57ae0336e.png">
 
 * First youtube video - [https://youtu.be/jte_wv4PHVw](https://youtu.be/jte_wv4PHVw)
-* Posted to java gaming forums - [http://www.java-gaming.org/topics/random-procedural-space-ship-designer/38871/view.html](http://www.java-gaming.org/topics/random-procedural-space-ship-designer/38871/view.html)
+* Posted to java gaming forums - [http://www.java-gaming.org/topics/random-procedural-space-ship-designer/38871/view.html](http://www.java-gaming.org/topics/random-procedural-space-ship-designer/38874/msg/371039/view.html)
 
 ### 14/03/2019
 
